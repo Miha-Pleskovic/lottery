@@ -1,0 +1,19 @@
+body {
+    background-color: #aae6aa;
+    text-align: center;
+}
+
+#filler {
+    font-size: 40px;
+}
+
+button {
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+#numbers {
+    font-size: 80px;
+}
